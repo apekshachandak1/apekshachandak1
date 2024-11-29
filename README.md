@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Apeksha Chandak</h1>  
-<h3 align="center">🚀 A Passionate Computer Vision Developer and Tech Enthusiast from India</h3>  
+<h3 align="center">🚀 A Passionate Computer Vision Developer and Tech Enthusiast from India 🇮🇳</h3>  
 
 ---
 
 ### 🌟 **About Me**  
-- 🎓 Final year **B.Tech in Artificial Intelligence & Machine Learning** at Deogiri Institute of Engineering & Management Studies.
-- **Specialized in Computer Vision and Deep Learning** with a dedicated focus on developing practical, real-world solutions.  
-- 🌱 Actively expanding expertise in **Natural Language Processing**, **Business Intelligence**,**Computer Vision**,**Deep Learning** technologies.  
-- 🔍 Enthusiastic about exploring **collaborative projects**, **internships**, and **opportunities** in the fields of AI, ML, and Data Analytics.  
-- 👩‍💻 **Specialized in Computer Vision and Deep Learning** with a strong focus on real-world applications.  
-- 🔍 Open to **collaborative projects**, **internships**, and **opportunities** in AI, ML, and Data Analytics.  
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** (Final Year) at **Deogiri Institute of Engineering & Management Studies**.  
+- **Specialized in Computer Vision** and **Deep Learning**, with a focus on practical, real-world solutions. 🧠  
+- 🌱 Actively expanding expertise in **Natural Language Processing**, **Business Intelligence**, and **AI technologies**.  
+- 🔍 Open to **collaborative projects**, **internships**, and **freelance opportunities** in **AI**, **ML**, and **Data Analytics**.  
+- 🌐 Passionate about exploring new **AI technologies**, **Computer Vision**, and **Machine Learning** applications.
 
 ---
 
 ### 🤝 **Connect with Me:**  
 <p align="left">  
-  <a href="https://www.linkedin.com/in/apeksha-chandak-9590a322a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apeksha chandak" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/apeksha-chandak-9590a322a" target="blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Apeksha Chandak" height="30" width="40" />  
   </a>  
 </p>  
 
@@ -24,54 +23,79 @@
 
 ### 📂 **Projects Undertaken:**  
 
-#### **1️⃣ Animal Species Detection System**  
-- **Domain:** Deep Learning, Computer Vision  
-- **Tools Used:** Python, TensorFlow, Keras, Streamlit  
+#### **1️⃣ Object Detection WebApp**  
+- **Domain:** Computer Vision  , open cv 
+- **Tools Used:** PyTorch, Faster R-CNN, ResNet-50 
 - **Description:**  
-   - Developed a real-time system to detect and classify animal species using deep learning.  
-   - Built a Streamlit-based web app to process wildlife camera images, achieving accurate identification.  
+   - Developed an object detection application using **PyTorch**’s **Faster R-CNN** model.  
+   - Built a **Streamlit** interface for user-friendly image uploads and visualizing detection results.  
+   - Features include adjustable confidence thresholds and support for **90 object categories** from the **COCO dataset**. 🖼️🦁  
 
-#### **2️⃣ Text-to-Speech Converter**  
-- **Domain:** Natural Language Processing  
+#### **2️⃣ Cartoonize Images and Videos**  
+- **Domain:** Computer Vision  , open cv 
+- **Tools Used:** OpenCV, NumPy, Streamlit  
+- **Description:**  
+   - Created a project to transform **images** and **videos** into cartoon-style representations.  
+   - Implemented **grayscale conversion**, **edge detection**, and **bilateral filtering** for smooth colors.  
+   - Built a **Streamlit** interface for user uploads and provided options to download cartoonized outputs. 🎨✨
+
+#### **3️⃣ Animal Species Detection System**  
+- **Domain:** Deep Learning, Computer Vision  , yolo v8
+- **Tools Used:** TensorFlow, Keras, Streamlit  
+- **Description:**  
+   - Developed a real-time system to detect and classify **animal species** using deep learning.  
+   - Built a **Streamlit**-based web app to process **wildlife camera images** with high accuracy. 🐯🌍  
+
+#### **4️⃣ Text-to-Speech Converter**  
+- **Domain:** Natural Language Processing  , Computer Vision 
 - **Tools Used:** Python, Streamlit, gTTS (Google Text-to-Speech API)  
 - **Description:**  
-   - Created a web app that converts user-input text to speech using gTTS API.  
-   - Enabled real-time audio generation and provided a feature to download the speech as an audio file.  
+   - Created a **web app** that converts user-input text to speech using the **gTTS API**.  
+   - Enabled **real-time audio generation** and provided a download feature for the audio file. 🗣️🎧
 
-#### **3️⃣ Bank Loan Analysis Dashboard**  
+#### **5️⃣ Bank Loan Analysis Dashboard**  
 - **Domain:** Business Intelligence and Financial Analytics  
-- **Tools Used:** Power BI, Data Cleaning  
+- **Tools Used:** Power BI  
 - **Description:**  
-   - Developed a comprehensive Power BI dashboard to analyze and visualize bank loan data.  
-   - Provided actionable insights into loan portfolio trends and financial health.  
+   - Developed a comprehensive **Power BI** dashboard to analyze **bank loan data**.  
+   - Provided actionable insights into **loan portfolio trends** and **financial health**. 💼💰  
 
-#### **4️⃣ Film Retail Business Analysis Dashboard**  
+#### **6️⃣ Film Retail Business Analysis Dashboard**  
 - **Domain:** Business Intelligence and Retail Analytics  
-- **Tools Used:** Sakila DVD Rental Store dataset, Power BI  
+- **Tools Used:** Power BI, Sakila DVD Rental Store dataset  
 - **Description:**  
-   - Designed a dashboard showcasing customer behavior, sales trends, and staff performance.  
-   - Empowered business decision-making with insights into film performance and store operations.  
+   - Designed a dashboard showcasing **customer behavior**, **sales trends**, and **staff performance**.  
+   - Empowered business decisions with insights into **film performance** and **store operations**. 🎬📊  
 
 ---
 
 ### 🛠️ **Technical Skills:**  
-- **Programming Languages:** Python, JavaScript, Java, HTML, CSS  
-- **Frameworks & Libraries:** TensorFlow, Keras, Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Database Management:** SQL, MySQL  
-- **Data Visualization Tools:** Power BI, Tableau  
-- **Other Tools & APIs:** Figma, gTTS, GitHub, Data Cleaning Techniques  
+- **Programming Languages:** Python, JavaScript, Java, HTML, CSS 💻  
+- **Frameworks & Libraries:** TensorFlow, Keras, Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib 📚  
+- **Database Management:** SQL, MySQL 🗃️  
+- **Data Visualization Tools:** Power BI, Tableau 📊  
+- **Other Tools & APIs:** Figma, gTTS, GitHub, OpenCV 🔧  
 
 ---
 
 ### 💼 **Soft Skills:**  
-- Critical Thinking | Adaptability | Presentation | Problem-Solving  
-- Time Management | Leadership  
+- Critical Thinking 💭 | Adaptability 🦋 | Presentation 📊 | Problem-Solving 🔍  
+- Time Management ⏰ | Leadership 🌟  
 
 ---
 
 ### 🔥 **GitHub Stats:**  
 <p align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apekshachandak1&theme=radical" alt="apekshachandak1" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apekshachandak1&theme=radical" alt="Apeksha Chandak" />  
 </p>  
 
----  
+---
+
+### 📈 **GitHub Contributions:**  
+<p align="center">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apekshachandak1&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Apeksha Chandak" />  
+</p>  
+
+---
+
+This updated version is now both professional and visually engaging! The added emojis and relevant images help convey the details of your projects and skills while keeping it attractive. Let me know if you'd like any more changes! 😊
