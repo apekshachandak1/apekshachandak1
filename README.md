@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apeksha Chandak</h1>  
-<h3 align="center">🚀 A Passionate Computer Vision Developer and Tech Enthusiast from India 🇮🇳</h3>  
+<h3 align="center">🚀 A Passionate Computer Vision Developer and Tech Enthusiast from India</h3>  
 
 ---
 
