@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 **About Me**  
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** (Final Year) at **Deogiri Institute of Engineering & Management Studies**.  
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning**.  
 - **Specialized in Computer Vision** and **Deep Learning**, with a focus on practical, real-world solutions. 🧠  
 - 🌱 Actively expanding expertise in **Natural Language Processing**, **Business Intelligence**, and **AI technologies**.  
 - 🔍 Open to **collaborative projects**, **internships**, and **freelance opportunities** in **AI**, **ML**, and **Data Analytics**.  
