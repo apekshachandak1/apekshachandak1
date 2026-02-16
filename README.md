@@ -90,12 +90,5 @@
 </p>  
 
 ---
-
-### 📈 **GitHub Contributions:**  
-<p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apekshachandak1&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Apeksha Chandak" />  
-</p>  
-
 ---
 
-This updated version is now both professional and visually engaging! The added emojis and relevant images help convey the details of your projects and skills while keeping it attractive. Let me know if you'd like any more changes! 😊
